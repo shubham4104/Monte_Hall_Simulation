@@ -1,0 +1,55 @@
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3270
+probability of winning inn this case: 0.327
+
+total wins if we change the choice: 6650
+probability of winning inn this case: 0.665
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3313
+probability of winning inn this case: 0.3313
+
+total wins if we change the choice: 6762
+probability of winning inn this case: 0.6762
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3324
+probability of winning inn this case: 0.3324
+
+total wins if we change the choice: 6595
+probability of winning inn this case: 0.6595
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3353
+probability of winning inn this case: 0.3353
+
+total wins if we change the choice: 6621
+probability of winning inn this case: 0.6621
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3318
+probability of winning inn this case: 0.3318
+
+total wins if we change the choice: 6639
+probability of winning inn this case: 0.6639
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3297
+probability of winning inn this case: 0.3297
+
+total wins if we change the choice: 6712
+probability of winning inn this case: 0.6712
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3384
+probability of winning inn this case: 0.3384
+
+total wins if we change the choice: 6695
+probability of winning inn this case: 0.6695
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3419
+probability of winning inn this case: 0.3419
+
+total wins if we change the choice: 6746
+probability of winning inn this case: 0.6746
+(base) shubham@shubham-Inspiron-7560:~/Documents/UCSD_assignment/monte_hall_simulation$ ./a.out
+total wins if we stick to the choice: 3303
+probability of winning inn this case: 0.3303
+
+total wins if we change the choice: 6659
+probability of winning inn this case: 0.6659
+
