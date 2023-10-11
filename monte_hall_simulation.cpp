@@ -1,3 +1,8 @@
+/*
+Problem Statement: Simulate Monte Hall game simulation
+Doors are represented using variables to improve the readibiloty and help others understand the code who dont have the backgrouund.
+Doors and moves can be captured using Array or Vector. (This would reduce the code further)
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
